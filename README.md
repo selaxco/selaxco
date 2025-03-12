@@ -2,7 +2,15 @@
 
 **`Cientista de Dados`**
 
-Cientista de dados e artista.
+Olá, mundo! Eu sou a Thaynara, bacharel em Ciência e Tecnologia, formada na primeira turma do curso de graduação inovador proposto pelo Centro Nacional de Pesquisa em Energia e Materiais (sim, o lugar onde está o acelerador de partículas brasileiro!!!) e, atualmente, mestranda em Ciência da Computação no Hub de Saúde e Bem-Estar do Laboratório de Inteligência Artificial (Recod) da Unicamp. Minha pesquisa acontece dentro de uma parceria entre a <b>Samsung</b>💻, <b>Unicamp</b>📚 e o <b>Instituto do Coração do Hospital das Clínicas do HCFMUSP</b>🏥 e trata-se do desenvolvimento de modelos de inteligência artificial para auxiliar o telemonitoramento de pacientes cardíacos a partir de dados de smartwatches. 
+
+<h3>Aqui você vai encontrar:</h3>
+<ul>
+  <li>Trabalhos realizados durante a minha graduação no CNPEM.</li>
+  <li>Portifólio de projetos voltados para BI.</li>
+  <li>Estudos pontuais das minhas tecnologias de interesse.</li>
+</ul>
+
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
