@@ -13,7 +13,7 @@ Olá, mundo! Eu sou a Thaynara, bacharel em Ciência e Tecnologia, formada na pr
 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/selaxco?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
