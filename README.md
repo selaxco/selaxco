@@ -7,7 +7,8 @@ Olá, mundo! Eu sou a Thaynara, bacharel em Ciência e Tecnologia, formada na pr
 <h3>Aqui você vai encontrar:</h3>
 <ul>
   <li>Trabalhos realizados durante a minha graduação no CNPEM.</li>
-  <li>Portifólio de projetos voltados para BI.</li>
+  <li>Trabalhos realizados durante a minha pós-graduação na Unicamp.</li>
+  <li>Portifólio de projetos.</li>
   <li>Estudos pontuais das minhas tecnologias de interesse.</li>
 </ul>
 
